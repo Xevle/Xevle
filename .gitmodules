@@ -1,3 +1,6 @@
 [submodule "Xevle.Math"]
 	path = Xevle.Math
 	url = git@github.com:Xevle/Xevle.Math.git
+[submodule "Documentation"]
+	path = Documentation
+	url = git@github.com:Xevle/Documentation.git
