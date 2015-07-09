@@ -1,0 +1,3 @@
+[submodule "Xevle.Math"]
+	path = Xevle.Math
+	url = git@github.com:Xevle/Xevle.Math.git
