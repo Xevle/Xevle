@@ -5,6 +5,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Math", "..\Xevle.Math
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Core", "..\Xevle.Core\Xevle.Core.csproj", "{4D90F3D7-F459-4272-A2FB-7A6B6987EA2D}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{EB0CDBF3-FBE6-463E-983B-B50754B86105}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests.Xevle.Math", "..\Tests\Tests.Xevle.Math\Tests.Xevle.Math.csproj", "{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,5 +23,12 @@ Global
 		{69DDF62D-1B61-4B1E-8452-91436E0DAADB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{69DDF62D-1B61-4B1E-8452-91436E0DAADB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{69DDF62D-1B61-4B1E-8452-91436E0DAADB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2} = {EB0CDBF3-FBE6-463E-983B-B50754B86105}
 	EndGlobalSection
 EndGlobal
