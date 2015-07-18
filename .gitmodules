@@ -4,3 +4,6 @@
 [submodule "Documentation"]
 	path = Documentation
 	url = git@github.com:Xevle/Documentation.git
+[submodule "Tests"]
+	path = Tests
+	url = git@github.com:Xevle/Tests.git
