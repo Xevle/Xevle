@@ -11,8 +11,11 @@
     <EventRemoveBraceStyle>NextLine</EventRemoveBraceStyle>
     <StatementBraceStyle>NextLine</StatementBraceStyle>
     <BeforeMethodDeclarationParentheses>False</BeforeMethodDeclarationParentheses>
+    <BeforeMethodCallParentheses>False</BeforeMethodCallParentheses>
     <BeforeConstructorDeclarationParentheses>False</BeforeConstructorDeclarationParentheses>
     <BeforeDelegateDeclarationParentheses>False</BeforeDelegateDeclarationParentheses>
+    <NewParentheses>False</NewParentheses>
+    <SpacesBeforeBrackets>False</SpacesBeforeBrackets>
   </CSharpFormattingPolicy>
   <NameConventionPolicy>
     <Rules>
