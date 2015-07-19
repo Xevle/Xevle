@@ -10,12 +10,21 @@
     <EventAddBraceStyle>NextLine</EventAddBraceStyle>
     <EventRemoveBraceStyle>NextLine</EventRemoveBraceStyle>
     <StatementBraceStyle>NextLine</StatementBraceStyle>
+    <ElseNewLinePlacement>NewLine</ElseNewLinePlacement>
+    <CatchNewLinePlacement>NewLine</CatchNewLinePlacement>
+    <FinallyNewLinePlacement>NewLine</FinallyNewLinePlacement>
+    <WhileNewLinePlacement>NewLine</WhileNewLinePlacement>
+    <EmbeddedStatementPlacement>SameLine</EmbeddedStatementPlacement>
     <BeforeMethodDeclarationParentheses>False</BeforeMethodDeclarationParentheses>
     <BeforeMethodCallParentheses>False</BeforeMethodCallParentheses>
     <BeforeConstructorDeclarationParentheses>False</BeforeConstructorDeclarationParentheses>
+    <NewLineBeforeConstructorInitializerColon>SameLine</NewLineBeforeConstructorInitializerColon>
+    <NewLineAfterConstructorInitializerColon>SameLine</NewLineAfterConstructorInitializerColon>
     <BeforeDelegateDeclarationParentheses>False</BeforeDelegateDeclarationParentheses>
     <NewParentheses>False</NewParentheses>
     <SpacesBeforeBrackets>False</SpacesBeforeBrackets>
+    <BlankLinesAroundRegion>0</BlankLinesAroundRegion>
+    <BlankLinesInsideRegion>0</BlankLinesInsideRegion>
   </CSharpFormattingPolicy>
   <NameConventionPolicy>
     <Rules>
