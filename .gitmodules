@@ -10,3 +10,6 @@
 [submodule "Examples"]
 	path = Examples
 	url = git@github.com:Xevle/Examples.git
+[submodule "Xevle.Core"]
+	path = Xevle.Core
+	url = git@github.com:Xevle/Xevle.Core.git
