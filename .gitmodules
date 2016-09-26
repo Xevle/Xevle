@@ -13,3 +13,6 @@
 [submodule "Xevle.Core"]
 	path = Xevle.Core
 	url = git@github.com:Xevle/Xevle.Core.git
+[submodule "Xevle.Logging"]
+	path = Xevle.Logging
+	url = git@github.com:Xevle/Xevle.Logging.git
