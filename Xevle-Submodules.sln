@@ -25,7 +25,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Data", "..\Xevle.Data
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Network", "..\Xevle.Network\Xevle.Network.csproj", "{1EB72339-B037-41AA-806E-FE2DC9050729}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Database.SQLite", "..\Xevle.Database.SQLite\Xevle.Database.SQLite.csproj", "{EBA61CC5-7AAD-48EF-B4F1-30BC93216036}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xevle.Logging", "..\Xevle.Logging\Xevle.Logging.csproj", "{3A0F3FAE-5CF1-4292-9093-CF7A9B768793}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,14 +69,14 @@ Global
 		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{EBA61CC5-7AAD-48EF-B4F1-30BC93216036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{EBA61CC5-7AAD-48EF-B4F1-30BC93216036}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{EBA61CC5-7AAD-48EF-B4F1-30BC93216036}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{EBA61CC5-7AAD-48EF-B4F1-30BC93216036}.Release|Any CPU.Build.0 = Release|Any CPU
 		{FF1643AA-E194-4145-8248-028ED9503EB4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{FF1643AA-E194-4145-8248-028ED9503EB4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FF1643AA-E194-4145-8248-028ED9503EB4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FF1643AA-E194-4145-8248-028ED9503EB4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0F3FAE-5CF1-4292-9093-CF7A9B768793}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0F3FAE-5CF1-4292-9093-CF7A9B768793}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0F3FAE-5CF1-4292-9093-CF7A9B768793}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0F3FAE-5CF1-4292-9093-CF7A9B768793}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{DD34CF5D-32F2-4FD9-9D65-AF8E6FFEF6D2} = {EB0CDBF3-FBE6-463E-983B-B50754B86105}

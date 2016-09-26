@@ -1,6 +1,3 @@
-[submodule "Xevle.Math"]
-	path = Xevle.Math
-	url = git@github.com:Xevle/Xevle.Math.git
 [submodule "Documentation"]
 	path = Documentation
 	url = git@github.com:Xevle/Documentation.git
@@ -16,3 +13,27 @@
 [submodule "Xevle.Logging"]
 	path = Xevle.Logging
 	url = git@github.com:Xevle/Xevle.Logging.git
+[submodule "Xevle.Network"]
+	path = Xevle.Network
+	url = git@github.com:Xevle/Xevle.Network.git
+[submodule "Xevle.Imaging"]
+	path = Xevle.Imaging
+	url = git@github.com:Xevle/Xevle.Imaging.git
+[submodule "Xevle.FileFormats.TMX"]
+	path = Xevle.FileFormats.TMX
+	url = git@github.com:Xevle/Xevle.FileFormats.TMX.git
+[submodule "Xevle.Data"]
+	path = Xevle.Data
+	url = git@github.com:Xevle/Xevle.Data.git
+[submodule "Xevle.Database"]
+	path = Xevle.Database
+	url = git@github.com:Xevle/Xevle.Database.git
+[submodule "Xevle.Database.SQLite"]
+	path = Xevle.Database.SQLite
+	url = git@github.com:Xevle/Xevle.Database.SQLite.git
+[submodule "Xevle.IO"]
+	path = Xevle.IO
+	url = git@github.com:Xevle/Xevle.IO.git
+[submodule "Xevle.Maths"]
+	path = Xevle.Maths
+	url = git@github.com:Xevle/Xevle.Maths.git
